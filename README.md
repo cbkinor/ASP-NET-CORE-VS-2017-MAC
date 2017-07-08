@@ -2,6 +2,11 @@
 
 Tutorial - Create a web app with ASP.NET Core MVC using Visual Studio 2017 for mac
 
+Getting started with ASP.NET Core MVC and Visual Studio for Mac
+- url: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app-mac/start-mvc
+-  By: Rick Anderson
+
+
 #### By Chris Kuiper
 
 ## Description
