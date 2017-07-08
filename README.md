@@ -6,7 +6,7 @@ Tutorial - Create a web app with ASP.NET Core MVC using Visual Studio 2017 for m
 
 ## Description
 
-_This tutorial creates a movie web app using asp.net core, sqlLite, Entity Framework, Migrations and Scaffolding using Visual Studio 2017 Community for mac._
+_Thought I would do a quickie tutorial to check and see if there were any issues. The tutorial went smooth as silk. This tutorial creates a movie web app using asp.net core, sqlLite, Entity Framework, Migrations and Scaffolding using Visual Studio 2017 Community for mac._
 
 ## Setup/Installation Requirements
 *_Clone the repository._
