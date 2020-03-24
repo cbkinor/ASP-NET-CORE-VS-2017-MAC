@@ -7,8 +7,6 @@ Getting started with ASP.NET Core MVC and Visual Studio for Mac
 -  By: Rick Anderson
 
 
-#### By Chris Kuiper
-
 ## Description
 
 _Thought I would do a quickie tutorial to check and see if there were any issues. The tutorial went smooth as silk. This tutorial creates a movie web app using asp.net core, sqlLite, Entity Framework, Migrations and Scaffolding using Visual Studio 2017 Community for mac._
@@ -35,4 +33,3 @@ _If any contact is needed you can reach me at my email at cbkinor@gmail.com_
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2017 **By Chris Kuiper**
